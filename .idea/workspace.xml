@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c50a94be-fc34-4745-8854-ef895f3e2644" name="Changes" comment="Test 2 - Casting">
+    <list default="true" id="c50a94be-fc34-4745-8854-ef895f3e2644" name="Changes" comment="Test 2 - Casting Ajuste">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_2.java" afterDir="false" />
     </list>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655857543173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test 2 - Casting Ajuste">
+      <created>1655952916685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655952916685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="estrutura Sequencial Seção 4." />
     <MESSAGE value="Test 2 - Casting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2 - Casting" />
+    <MESSAGE value="Test 2 - Casting Ajuste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2 - Casting Ajuste" />
   </component>
 </project>
