@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c50a94be-fc34-4745-8854-ef895f3e2644" name="Changes" comment="Test 2 - Casting Ajuste">
+    <list default="true" id="c50a94be-fc34-4745-8854-ef895f3e2644" name="Changes" comment="Test 2 - Casting Ajuste Part 2">
+      <change afterPath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura_sequencial_variaveis/Test_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test_2">
+  <component name="RunManager" selected="Application.Test_4">
     <configuration name="Estrutura_sequencial_secao_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estrutura_sequencial_variaveis.Estrutura_sequencial_secao_4" />
       <module name="Estrutura_sequencial_secao04" />
@@ -79,8 +80,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrutura_sequencial_variaveis.Test_3" />
+      <module name="Estrutura_sequencial_secao04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estrutura_sequencial_variaveis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrutura_sequencial_variaveis.Test_4" />
+      <module name="Estrutura_sequencial_secao04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estrutura_sequencial_variaveis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_4" />
+        <item itemvalue="Application.Test_3" />
         <item itemvalue="Application.Test_2" />
         <item itemvalue="Application.Test_1" />
         <item itemvalue="Application.Estrutura_sequencial_secao_4" />
@@ -117,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655952916685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test 2 - Casting Ajuste Part 2">
+      <created>1656616582834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656616582834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +171,7 @@
     <MESSAGE value="estrutura Sequencial Seção 4." />
     <MESSAGE value="Test 2 - Casting" />
     <MESSAGE value="Test 2 - Casting Ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2 - Casting Ajuste" />
+    <MESSAGE value="Test 2 - Casting Ajuste Part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2 - Casting Ajuste Part 2" />
   </component>
 </project>
